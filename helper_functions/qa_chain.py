@@ -228,7 +228,7 @@ def get_final_response(question: str) -> str:
 
     try:
         qa_chain = build_qa_chain(question)
-        result = qa_chain({"query": question})
+        result = qa_chain.invoke({"query": question})
         final_answer = result.get("result", "").strip()
         docs = result.get("source_documents", [])
 

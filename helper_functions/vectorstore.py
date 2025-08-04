@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from bs4 import BeautifulSoup
 from langchain_core.documents import Document
 from langchain_openai import OpenAIEmbeddings
-from langchain_community.vectorstores import Chroma
+from langchain_chroma import Chroma
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 from helper_functions.web_scraper import scrape_and_clean
