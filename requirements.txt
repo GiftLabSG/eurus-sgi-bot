@@ -10,4 +10,3 @@ schedule
 python-dotenv
 crewai
 streamlit
-langchain-chroma
