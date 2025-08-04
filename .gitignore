@@ -20,6 +20,3 @@ venv/
 .mypy_cache/
 .pytest_cache/
 .cache
-
-data/manual_scrapes/
-data/scraped_pages/

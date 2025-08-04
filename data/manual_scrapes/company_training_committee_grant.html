@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html class=" item" id="root" dir="ltr" lang="en-GB">
+<head>
+<title>
+
+About Grant</title>
+<meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><base href="../.."/><link href="style/font-awesome-v6.5.1-all.min.css" type="text/css" rel="stylesheet"/><link href="style/ambience.css" type="text/css" rel="stylesheet"/><link href="style/ambience-form.css" type="text/css" rel="stylesheet"/><link href="style/ambience-cms.css" type="text/css" rel="stylesheet"/><link href="style/ambience-cms-extras.css" type="text/css" rel="stylesheet"/><link href="style/ambience-cms-responsive.css" type="text/css" rel="stylesheet"/><link href="style/ambience-cms-custom.css" type="text/css" rel="stylesheet"/><link href="cms/fp/style/default/ctc-fp.css" type="text/css" rel="stylesheet"/><link href="cms/fp/style/default/ambience-form.css" type="text/css" rel="stylesheet"/><style class="elx-custom-css">
+
+
+.cms-auth-hidden{ display: block !important;}
+.cms-auth-shown{ display: none !important;}
+</style>
+<style>
+
+/* need to add "cms-auth-shown" to button css classes when need to display back*/
+ #myrequest-btn1 {
+    display: none !important;
+ }</style>
+<script src="lib/jquery-3.7.1.min.js" type="text/javascript">
+</script>
+<script src="cms/fp/js/client.js" type="text/javascript">
+</script>
+<script>
+
+elx = {};
+ elx.cms = {
+  "page" : {
+    "name" : "AboutGrant",
+    "path" : "news.html"
+  },
+  "isRuntime" : true,
+  "htmlTemplatePath" : "cms/htpub/",
+  "asPublic" : null
+};
+ elx.cms.i18n = {};
+
+ elx.parameters = {
+  "tool" : "Elixir Ambience",
+  "subtext" : "Business Intelligence",
+  "websiteName" : "Elixir Technology Pte Ltd",
+  "websiteURL" : "https://www.elixirtech.com/",
+  "documentationName" : "Documentation",
+  "documentationURL" : "https://docs.elixirtech.com/Ambience/2024.0/index.html",
+  "version" : "2024-SNAPSHOT",
+  "release" : "2024-11-24T20:13:55.421266103Z",
+  "webPrefix" : "https://grants.e2i.com.sg:443",
+  "i18nChoice" : "en-GB",
+  "maintenanceMode" : false,
+  "isPublic" : true,
+  "userid" : "",
+  "avatar" : ""
+};
+
+ 
+
+ $(function(){ElxCMS.init();});</script>
+<script class="elx-onload">
+
+doWithdrawnNoReject();
+ 
+ $(function() {
+   $("#signout-btn").click(function(){
+     $("<form method='post' action='logout'></form>").appendTo("body").submit();
+   });
+   updateLogoHref();
+ });
+ 
+ function doEligibilityAppeal(){
+ 	var isEligibilityAppealCTC = ElxCMS.Session.getItem("eligibilityAppealCTC");
+ 	if(elx.cms.isRuntime && isEligibilityAppealCTC){
+ 		ElxCMS.Session.setItem("eligibilityAppealCTC", false);
+ 		window.location.replace("ctc/fp/myeligibility/create");
+ 	}
+ }
+ 
+ function doWithdrawnNoReject(){
+ 	if(ElxCMS.Session.getItem("eligibilityNo") && elx.ctc.isWithdrawnNoReject){
+ 	    $("#mygrant-link").attr("href", "cms/fpp/myeligibilityappeal.html");
+ 	    $("<style>.ctc-mygrants-btn{ display: none !important;}</style>").insertAfter($("style"));
+ 	}
+ }
+ 
+ function updateLogoHref(){
+ 	if(ElxCMS.Session.getItem("eligibilityNo") && elx.ctc.isWithdrawnNoReject){
+ 	    $("#mygrant-link").attr("href", "cms/fpp/myeligibilityappeal.html");
+ 	}
+ 	
+ 	$("#myrequest-btn").hide();
+ }</script>
+<script class="elx-onload">
+
+ $(function() {
+   $("#aboutgrant-btn").click(function() {
+     $('html, body').animate({
+        scrollTop: $("#columnAboutGrant").offset().top
+     }, 2000);
+     return false;
+   });
+ });</script>
+</head>
+<body style="margin:0.5rem;" class="elx-cms">
+<div style="padding-left:1rem; min-height:6.5rem; max-height:6rem;" class=" elx-cms-row item" id="main-header">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:flex-start; align-items:center;" class="elx-cms-row-container">
+<div style="min-width:1rem; max-width:11rem;" class=" elx-cms-column item" id="header-col1">
+<div class="elx-cms-column-body">
+<div style="min-height:none; max-height:none;" class=" elx-cms-row item" id="tm-row4">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:left; align-items:center;" class="elx-cms-row-container">
+<a class=" elx-cms-i18n elx-cms-link item" href="https://www.e2i.com.sg/" target="_blank" id="e2i_link">
+<img alt="" id="tm-image11" style="width:7em; height:auto; vertical-align:center;" src="cms/fp/images/default/e2i-logo.png" class=" elx-cms-i18n item"/></a>
+</div>
+</div>
+</div>
+</div>
+<div style="min-width:0.2rem; max-width:0.2rem;" class="elx-cms-column item spacer" id="header-col2">
+<div class="elx-cms-column-body">
+<div style="min-height:none; max-height:none;" class=" elx-cms-row item" id="tm-row5">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:center; align-items:center;" class="elx-cms-row-container">
+<div style="min-height:3rem; max-height:3rem; height:3rem;" class="elx-cms-vspacer item lightgray-bgcolor vline" id="tm-v-spacer1">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="color:#dc143c; min-width:none; max-width:none;" class=" elx-cms-column item" id="header-col3">
+<div class="elx-cms-column-body">
+<div style="min-height:none; max-height:none;" class=" elx-cms-row item" id="tm-row3">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:flex-start; align-items:center;" class="elx-cms-row-container">
+<div style="min-width:0.5rem; max-width:0.5rem; width:0.5rem;" class=" elx-cms-hspacer item" id="tm-h-spacer1">
+</div>
+<a href="cms/fp/news.html" target="_self" id="about-grant-link" data-path="news.html" class="cms-auth-hidden elx-cms-i18n elx-cms-link item" data-name="AboutGrant">
+<span style="color:#dc143c; font-size:32px; font-weight:bold;" class=" elx-cms-i18n elx-cms-text item" id="title-text1">
+<span class="mmm">
+
+Grant Portal</span>
+</span>
+</a>
+<a href="cms/fpp/mygrants.html" target="_self" id="mygrant-link" data-path="mygrants.html" class="cms-auth-shown elx-cms-i18n elx-cms-link item" data-name="MyGrants">
+<span style="color:#dc143c; font-size:32px; font-weight:bold;" class=" elx-cms-i18n elx-cms-text item" id="title-text11">
+<span class="mmm">
+
+Grant Portal</span>
+</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div style="color:#dc143c; min-width:none; max-width:none;" class=" elx-cms-column item" id="header-col4">
+<div class="elx-cms-column-body">
+<div style="min-height:none; max-height:none;" class=" elx-cms-row item" id="tm-row32">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:flex-start; align-items:center;" class="elx-cms-row-container">
+<ul class=" elx-cms-button-menu horizontal dropdown elx-cms-header-panel item" id="tm-button-menu1">
+<li class="elx-cms-button-menu-item">
+<a href="cms/fpp/myrequest.html" target="_self" id="myrequest-btn" style="width:auto;" data-path="myrequest.html" class="cms-auth-shown ctc-myrequest-btn darkgray-color elx-cms-button elx-cms-i18n item nav-btn" data-name="MyRequest">
+
+My Request</a>
+</li>
+<li class="elx-cms-button-menu-item">
+<a href="cms/fpp/myeligibilityappeal.html" target="_self" id="myeligibilityappeal-btn" style="width:auto;" data-path="myeligibilityappeal.html" class=" cms-auth-shown ctc-myeligibility-btn darkgray-color elx-cms-button elx-cms-i18n item nav-btn" data-name="MyEligibilityAppeal">
+
+My Eligibility</a>
+</li>
+<li class="elx-cms-button-menu-item">
+<a href="cms/fpp/mygrants.html" target="_self" id="mygrants-btn" style="width:auto;" data-path="mygrants.html" class="cms-auth-shown ctc-mygrants-btn darkgray-color elx-cms-button elx-cms-i18n item nav-btn" data-name="MyGrants">
+
+My Grants</a>
+</li>
+<li class="elx-cms-button-menu-item">
+<a href="cms/fpp/myprofile.html" target="_self" id="myprofiles-btn" style="width:auto;" data-path="myprofile.html" class="cms-auth-shown darkgray-color elx-cms-button elx-cms-i18n item nav-btn" data-name="MyProfile">
+
+My Profile</a>
+</li>
+<li class="elx-cms-button-menu-item">
+<a href="cms/fp/news.html" target="_self" id="aboutgrant-btn" style="width:auto;" data-path="news.html" class="darkgray-color elx-cms-button elx-cms-i18n item nav-btn" data-name="AboutGrant">
+
+About Grant</a>
+</li>
+<li class="elx-cms-button-menu-item">
+<a href="cms/fp/howto.html" target="_self" id="howtoapply-btn" style="width:auto;" data-path="howto.html" class="darkgray-color elx-cms-button elx-cms-i18n item nav-btn" data-name="HowToApply">
+
+How to apply</a>
+</li>
+<li class="elx-cms-button-menu-item">
+<a href="cms/fp/apptemplate.html" target="_self" id="appV2-btn" style="width:auto;" data-path="apptemplate.html" class="darkgray-color elx-cms-button elx-cms-i18n item nav-btn" data-name="AppFormV2">
+
+Application Templates</a>
+</li>
+<li class="elx-cms-button-menu-item">
+<a href="cms/fp/faqs.html" target="_self" id="faq-btn" style="width:auto;" data-path="faqs.html" class="darkgray-color elx-cms-button elx-cms-i18n item nav-btn" data-name="FAQS">
+
+FAQs</a>
+</li>
+<li class="elx-cms-button-menu-item">
+<a href="cms/fp/contactus.html" target="_self" id="contactus-btn" style="width:auto;" data-path="contactus.html" class="darkgray-color elx-cms-button elx-cms-i18n item nav-btn" data-name="ContactUs">
+
+Contact</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div style="color:#dc143c; min-width:none; max-width:none;" class=" elx-cms-column item" id="header-col5">
+<div class="elx-cms-column-body">
+<div style="padding-right:1rem; min-height:auto; max-height:none;" class=" elx-cms-row item" id="tm-row31">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:right; align-items:center;" class="elx-cms-row-container">
+<a href="" target="_self" id="signout-btn" style="width:5rem;" class="cms-auth-shown elx-cms-button elx-cms-i18n item main-login-btn primary-btn" onclick="event.preventDefault()">
+
+Sign Out</a>
+<a href="cms/fp/signin.html" target="_self" id="signin-btn" style="width:5rem;" data-path="signin.html" class="cms-auth-hidden elx-cms-button elx-cms-i18n item main-login-btn primary-btn" data-name="SignIn">
+
+Sign In</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=" elx-cms-ambienceBanner item" data-showsnooze="false" id="tm-ambienceBanner1">
+</div>
+<div class=" elx-cms-template-content item" id="tm-template-content1">
+<div style="margin-top:9rem; margin-bottom:1rem; min-height:none; max-height:none;" class="content-section elx-cms-row item" id="getting-started">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:flex-start; align-items:center;" class="elx-cms-row-container">
+<div style="min-height:none; max-height:none;" class=" elx-cms-row item" id="row6">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:flex-start; align-items:stretch;" class="elx-cms-row-container">
+<div style="min-width:50%; max-width:50%;" class="content-block elx-cms-column item" id="column3">
+<div class="elx-cms-column-body">
+<div style="min-height:none; max-height:none;" class=" elx-cms-row item" id="row5">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:center; align-items:center;" class="elx-cms-row-container">
+<div style="text-align:left;" class=" elx-cms-text-block item" id="text-block13">
+<span class="elx-cms-i18n elx-cms-text item title" id="text3111">
+<span class="mmm">
+
+Getting Started</span>
+</span>
+<div style="min-height:1rem; max-height:1rem; height:1rem;" class=" elx-cms-vspacer item" id="v-spacer8">
+</div>
+<span class="elx-cms-i18n elx-cms-text heading2 item" id="text13">
+<span class="mmm">
+
+How to apply for a</span>
+</span>
+<span style="font-weight:bold;" class="elx-cms-i18n elx-cms-text heading2 item primary-color" id="text4">
+<span class="mmm">
+
+grant</span>
+</span>
+<br class=" item" id="new-line1">
+<span class="elx-cms-i18n elx-cms-text gray-color item title" id="text5">
+<span class="mmm">
+
+Step by step Guidelines to help you</span>
+</span>
+<div style="min-height:6rem; max-height:6rem; height:6rem;" class=" elx-cms-vspacer item" id="v-spacer7">
+</div>
+<a href="redirect/ctc/fp/mygrants/howitworks/learn/app" target="_self" id="learn-now-btn" style="width:auto;" class="elx-cms-button elx-cms-i18n item secondary-btn">
+
+Learn now</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="min-width:50%; max-width:50%;" class="content-block elx-cms-column item" id="column4">
+<div class="elx-cms-column-body">
+<img alt="" id="image1" style="width:100%; height:auto; vertical-align:stretch;" src="cms/fp/images/default/hero.png" class=" elx-cms-i18n item"/></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top:1rem; min-height:25rem; max-height:25em;" class="content-section lightgray-radius-border elx-cms-row item" id="apply-corp-pass">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:left; align-items:flex-start;" class="elx-cms-row-container">
+<div style="min-width:50%; max-width:50%;" class="content-block elx-cms-column item" id="column5">
+<div class="elx-cms-column-body">
+<div style="min-height:none; max-height:none;" class=" elx-cms-row item" id="row4">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:flex-start; align-items:stretch;" class="elx-cms-row-container">
+<div style="min-width:10rem; max-width:10rem;" class=" elx-cms-column item" id="column8">
+<div class="elx-cms-column-body">
+<img alt="" id="image2" style="width:10rem; height:auto; vertical-align:baseline;" src="cms/fp/images/default/corner-art-2.png" class=" elx-cms-i18n item"/></div>
+</div>
+<div class=" elx-cms-column item" id="column7">
+<div class="elx-cms-column-body">
+<div style="min-height:none; max-height:100%;" class=" elx-cms-row item" id="row7">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:flex-start; align-items:center;" class="elx-cms-row-container">
+<img alt="" id="image3" style="width:100%; height:auto; vertical-align:center;" src="cms/fp/images/default/illustration-1.png" class=" elx-cms-i18n item"/></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="min-width:50%; max-width:50%;" class="content-block elx-cms-column item" id="column6">
+<div class="elx-cms-column-body">
+<div style="min-height:auto; max-height:none;" class=" elx-cms-row item" id="row8">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:flex-start; align-items:center;" class="elx-cms-row-container">
+<div style="text-align:left;" class=" elx-cms-text-block item" id="text-block3">
+<span class="elx-cms-i18n elx-cms-text heading2 item" id="text131">
+<span class="mmm">
+
+Apply for a grant now with CorpPass</span>
+</span>
+<div style="min-height:1rem; max-height:1rem; height:1rem;" class=" elx-cms-vspacer item" id="v-spacer9">
+</div>
+
+Apply New Grant</a>
+<div style="min-height:1rem; max-height:1rem; height:1rem;" class=" elx-cms-vspacer item" id="v-spacer1">
+</div>
+<span class="elx-cms-i18n elx-cms-text gray-color item" id="text1">
+<span class="mmm">
+
+For New Applicant</span>
+</span>
+</div>
+</div>
+</div>
+<div style="min-height:10rem; max-height:10rem;" class=" elx-cms-row item" id="row11">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:right; align-items:flex-end;" class="elx-cms-row-container">
+<div style="min-height:100%; max-height:100%;" class=" elx-cms-row item" id="row9">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:flex-start; align-items:flex-start;" class="elx-cms-row-container">
+<div style="text-align:left;" class=" elx-cms-text-block item" id="text-block2">
+<div style="min-height:2.5rem; max-height:2.5rem; height:2.5rem;" class=" elx-cms-vspacer item" id="v-spacer10">
+</div>
+<span class="elx-cms-i18n elx-cms-text item text" id="text6">
+<span class="mmm">
+
+Don't have CorpPass account?</span>
+</span>
+
+Register here</a>
+</div>
+</div>
+</div>
+<img alt="" id="image21" style="width:10rem; height:auto; vertical-align:baseline;" src="cms/fp/images/default/corner-art-1.png" class=" elx-cms-i18n item"/></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top:2rem; min-height:20rem; max-height:100%;" class="content-section elx-cms-row item" id="news">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:center; align-items:center;" class="elx-cms-row-container">
+<div style="margin-left:2rem; margin-right:2rem; min-width:100%; max-width:100%;" class="content-block elx-cms-column item" id="columnAboutGrant">
+<div class="elx-cms-column-body">
+<span class="elx-cms-i18n elx-cms-text heading2 item" id="text7">
+<span class="mmm">
+
+About Grant</span>
+</span>
+<div style="min-width:2rem; max-width:2rem; width:2rem;" class="elx-cms-hspacer hline primary-bgcolor item" id="h-spacer1">
+</div>
+<div style="min-width:none; max-width:none;" class=" elx-cms-column item" id="column2">
+<div class="elx-cms-column-body">
+<div id="html-template1" data-hasdataset="true" class=" elx-cms-html-template item" data-uuid="11b7728d-e95f-47bf-a360-7b278fb528fd" data-no-item-text="">
+<img style="display:none;" class="spinner" src="Loading.gif"/><div class="elx-cms-html-template-body">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div style="min-height:none; max-height:100px;" class=" elx-cms-row item" id="tm-row1">
+<div style="margin-top:0; margin-right:0; margin-bottom:0; margin-left:0; justify-content:flex-end; align-items:center;" class="elx-cms-row-container">
+<div id="tm-html-template1" data-hasdataset="false" class=" elx-cms-html-template item" data-uuid="ec16643b-b888-4044-a9ba-bfee39dae7da" data-no-item-text="">
+<img style="display:none;" class="spinner" src="Loading.gif"/><div class="elx-cms-html-template-body">
+<div class="template-item">
+<body>
+<footer>
+<div class="footer-bottom">
+<p>
+
+Copyright © 2025 Employment and Employability Institute Pte Ltd. All rights reserved. |<a href="https://www.e2i.com.sg/terms-of-use/">
+
+Terms Of Use</a>
+
+|<a href="https://www.e2i.com.sg/pdpa/">
+
+PDPA Policy</a>
+</p>
+</div>
+</footer>
+</body>
+</div>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

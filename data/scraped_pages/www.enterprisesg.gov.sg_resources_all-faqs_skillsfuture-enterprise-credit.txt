@@ -1,0 +1,388 @@
+FAQ: SkillsFuture Enterprise Credit (SFEC)
+FAQ: SkillsFuture Enterprise Credit
+General
+What is SkillsFuture Enterprise Credit (SFEC)?
+SFEC aims to encourage employers to undertake enterprise and workforce transformation initiatives. It provides additional support, over and above the existing schemes, to eligible employers for their enterprise and workforce transformation efforts.
+The SFEC scheme was announced in Budget 2020 and expanded to a larger group of employers in Budget 2022. In Budget 2024, the validity of the SFEC for all employers will be extended by 1 year till 30 June 2025. SFEC has been further extended to second half of 2026, as announced in Budget 2025.
+What is the support level for SFEC?
+Eligible employers receive a one-off credit of up to $10,000 per entity to cover up to 90% of out-of-pocket expenses (refer to Q5 for illustration) on qualifying costs for enterprise transformation programmes and workforce transformation programmes.
+Enterprise Transformation (up to $7,000 only) – Schemes by various agencies hosted on the
+Business Grants Portal (BGP)
+; and/or
+Workforce Transformation (up to the full $10,000) – Training courses aligned to the various Industry Skills Frameworks by SkillsFuture Singapore (SSG),
+Job redesign initiatives, and Career Conversion Programmes etc. by Workforce Singapore (WSG)
+What are the criteria that employers must meet to be eligible for SFEC?
+The qualifying periods and their respective eligibility criteria are shown in the table below:
+Qualifying Period(s)
+Eligibility Criteria
+SFEC (Budget 2020)
+1 April 2019 – 31 March 2020
+1 July 2019 – 30 June 2020
+1 October 2019 – 30 September 2020
+1 January 2020 – 31 December 2020
+Employers must meet the following conditions over any of the qualifying periods:
+Have contributed at least $750 Skills Development Levy (SDL) over a qualifying period; and
+Have employed at least three Singapore Citizens (SCs) or Permanent Residents (PRs)* every month over the same qualifying period; and
+Have not been qualified at any of the earlier periods.
+All employers have already been qualified and notified.
+*Refers to all Singaporean or Singapore PR employees drawing a salary and with CPF contribution
+SFEC Expansion (Budget 2022)
+1 January 2021 – 31 December 2021
+Employers must meet the following conditions over the qualifying period:
+Have employed at least three Singapore Citizens (SCs) or Permanent Residents (PRs)* every
+month over the qualifying period; and
+Have not been previously qualified for SFEC; and
+Are not in default of their SDL contributions during the qualifying period and do not
+have an inactive ACRA status during the qualification process.
+All qualified employers have been notified in April 2022.
+*Refers to all Singaporean or Singapore PR employees drawing a salary and with CPF contribution
+Note:
+Employers qualified under SFEC (Budget 2020) can only use their SFEC on supportable schemes applied from 1 April 2020 or training courses that commenced from 1 April 2020.
+Employers qualified under SFEC Expansion (Budget 2022) can only use their SFEC on supportable schemes applied from 1 April 2022 or training courses that commenced from 1 April 2022.
+How can I access the list of SFEC-supportable programmes and SFEC-eligible training courses?
+To access the list of SFEC-supportable programmes, please visit
+Enterprise Singapore's website
+and
+SkillsFuture for Business page
+. Please refer to
+Annex A (attached in this FAQ)
+for the list or scan the QR codes (1) and
+(3) found in Annex A to access the websites.
+To access the list of SFEC-eligible training courses, please visit
+SkillsFuture Singapore’s course listing
+. Please check this list for updated course information to verify that the course is eligible for SFEC before course enrolment.
+Employers will have to meet the eligibility criteria of the respective SFEC-supportable programmes before they can draw down the Credit.
+How can an eligible employer benefit from SFEC?
+The employer decides to send an employee for an approved SFEC-eligible training
+course¹ under the
+Workforce Transformation
+programme.
+Full Fee of Training Course:
+$1,000
+SSG Course Fee Subsidy (90%):
+(for Singapore Citizens or Permanent Residents)
+$900
+Out-of-pocket Expense incurred by employer:
+$100
+SFEC Disbursement (90% of the out-of-pocket expense):
+$90
+This is a simplified computation which does not take into account any GST component, which is not supportable.
+The same employer also decides to enhance its productivity through automation and applies for the
+Productivity Solutions Grant (PSG)
+under the
+Enterprise Transformation
+programme.
+Qualified Cost of Equipment:
+$35,000
+Claim Approved Amount (based on qualifying costs &
+supported at 70%*):
+$24,500
+Out-of-Pocket Expense (incurred by employer):
+$10,500
+SFEC Disbursement
+(90% of out-of-pocket expense, capped at $7,000)
+$7,000*
+*SFEC funding for ‘Enterprise Transformation’ programmes is capped to $7,000.
+This employer has utilised a total of $7,090 SFEC and has a credit balance of $2,910. As the cap for Enterprise Transformation programmes has been reached, this balance can be used on Workforce Transformation programmes. The employer has up to the second half of 2026 to do so.
+¹ For SFEC-eligible training courses, note that payment has to be paid by, and invoiced to the employer, and not the employee.
+Why is there a $7,000 cap on SFEC utilisation for Enterprise Transformation programmes?
+To encourage employers to embark on both Enterprise and Workforce Transformation programmes in tandem, $3,000 of SFEC was ringfenced for Workforce Transformation programmes.
+SFEC Expansion (Budget 2022)
+What is the SFEC Expansion 2022?
+In Budget 2022, the coverage of SFEC was expanded through a one-off adjustment to the eligibility criteria. For the expansion, the requirement of a minimum employer contribution to Skills Development Levy (SDL) over the qualifying period was removed, thus allowing more employers to benefit from the $10,000 SFEC per entity*.
+In addition, the deadline to claim the credit for all employers (including those which were qualified previously) will be extended from 30 June 2023 to 30 June 2024. **
+*For the earlier qualifying periods, employers had to fulfil a requirement of contributing at least $750 in SDL over a qualifying period.
+**In Budget 2024, the deadline to claim the credit for all employers (including those which were qualified previously) will be extended from 30 June 2024 to 30 June 2025. SFEC has been further extended to the second half of 2026, as announced in Budget 2025.
+Why is there a SFEC Expansion?
+The coverage of SFEC was expanded to encourage more enterprises to take up transformation initiatives as employers emerge from the pandemic. In particular, the one-off removal of the SDL requirement* will benefit mainly smaller entities which do not employ many employees.
+The extension of the deadline to claim the credit will give employers more time to plan and embark on transformation initiatives.
+* For the earlier qualifying periods, employers had to fulfil a requirement of contributing
+at least $750 in SDL over a qualifying period.
+Who will qualify under the SFEC Expansion?
+Employers must meet the following conditions over the qualifying period (1 January 2021 – 31 December 2021):
+Have employed at least three Singapore Citizens (SCs) or Permanent Residents (PRs) every month over the qualifying period; and
+Have not been previously qualified for SFEC; and
+Are not in default of their SDL contributions during the qualifying period and do not have an inactive ACRA status during the qualification process.
+Will employers who have previously qualified for SFEC receive a top-up to their SFEC?
+No, there will not be a top-up for employers that have previously qualified for SFEC.
+How will I know if I qualify for the SFEC Expansion?
+All newly SFEC-eligible employers have been notified by EnterpriseSG via email sent to their registered Corppass Administrators in April 2022.
+Employers who qualified will be able to see the $10,000 credit, when they log in to the
+Business Grants Portal (BGP)
+and
+SkillsFuture for Business page
+in April 2022.
+I have qualified under the SFEC Expansion. When can I start using my SFEC?
+Newly qualified employers under the SFEC Expansion can only use their SFEC on supportable schemes applied from 1 April 2022 or training courses that commenced from 1 April 2022.
+Please refer to
+Annex A
+for the list of supportable programmes. The list of supportable programmes is updated from time to time, to reflect new programmes on board SFEC.
+Why are employers who have defaulted on their SDL payments excluded from benefiting from the SFEC?
+SDL is a mandatory contribution by employers, as stipulated in the Skills Development Levy Act (Chapter 306) and it also constitutes the employers’ fair share of contribution towards skills development. As such, employers who default on their SDL payments are excluded from SFEC.
+Why do employers need to fulfil the 3 Singapore Citizens (SCs) / Permanent Residents (PRs) requirement?
+The requirement to have a minimum of three SC/PR employees is to ensure that entities have a minimum scale of operations to benefit meaningfully from transformation and to allow local employees to benefit from the scheme.
+SFEC Extension (Budget 2024)
+What is the SFEC Extension (Budget 2024)?
+In Budget 2024, the deadline to claim the credit for all employers (including those which were qualified previously) will be extended from 30 June 2024 to 30 June 2025*.
+*SFEC has been further extended in Budget 2025 to second half of 2026.
+SFEC Extension (Budget 2025)
+What is the SFEC Extension (Budget 2025)?
+In Budget 2025, the current SFEC, originally set to expire in June 2025, will be extended until the redesigned SFEC is ready in the second half of 2026. This will allow employers time to use their remaining credits and plan their transformation efforts accordingly.
+Employers can find out more about the redesigned SFEC through WSG’s website
+here
+.
+SFEC Criteria and Eligibility
+Why is there a qualifying period for SFEC?
+To be eligible for SFEC, employers must have employed at least three Singapore Citizens or Permanent Residents (SC/PR) every month over the qualifying period.
+This demonstrates that entities have had stable operations and consistent employment throughout the qualifying period to be able to meaningfully utilise and benefit from SFEC and embark on enterprise and workforce transformation.
+Does the Singapore Citizen (SC) / Permanent Resident (PR) employment criterion for SFEC eligibility refer to new or existing employees? Are business owners counted within the SC/PR criterion?
+The SC/PR criterion for SFEC eligibility refers to all Singapore Citizens or Singapore PR employees drawing a salary and with CPF contribution, business owners included.
+Both new and existing employees can be considered, provided they are Singapore Citizens or PRs under the company’s employment, and within the qualifying 12 months period.
+What is the Skills Development Levy (SDL) and what is the purpose?
+Skills Development Levy (SDL) is a mandatory contribution by employers, as stipulated in the Skills Development Levy Act (Chapter 306). It was introduced on 1 October 1979 to encourage employers to upgrade their employees’ skills. SDL collections are channelled into the Skills Development Fund (SDF), which support a wide variety of skills upgrading programmes and activities. The SDL and SDF are administered by SkillsFuture Singapore (SSG).
+All employers are required to pay SDL. The amount of SDL payable is prescribed in Section 3 of the SDL Act. With effect from 1 October 2008, every employer is required to contribute 0.25% of the monthly remuneration of every employee on their payroll subject to:
+A minimum of $2 (for employees earning $800 or less a month)
+A maximum of $11.25 (for employees earning $4,500 or more a month)
+Regulation 3 of the Skills Development Levy Regulations requires every employer liable to pay SDL for any month to compute and pay the SDL within 14 days after the end of that month.
+For more information on SDL, please visit
+SSG’s website
+.
+For further clarifications on the SDL contributions, please contact SSG hotline at 6785 5785.
+Are employers required to maintain the employment of a minimum of 3 Singapore Citizens (SCs) or Permanent Residents (PRs) after qualifying for the SFEC?
+Employers who have qualified for SFEC will be eligible for the SFEC for the duration of the programme. No further checks on eligibility will be conducted subsequently.
+How do employers apply for SFEC?
+There is no need to apply for SFEC. Employers that have fulfilled the eligibility criteria for SFEC will be informed of their eligibility by Enterprise Singapore.
+Employers’ credit will be automatically used on supportable programmes that they have applied for. Please refer to Annex A for the list of supportable programmes.
+Employers qualified under SFEC (Budget 2020) can only use their SFEC on supportable schemes applied from 1 April 2020 or training courses that commenced from 1 April 2020.
+Employers qualified under SFEC Expansion (Budget 2022) can only use their SFEC on supportable schemes applied from 1 April 2022 or training courses that commenced from 1 April 2022.
+How do employers know if they have qualified for SFEC?
+All newly eligible employers for SFEC will be notified by EnterpriseSG via email. Employers who qualified would be able to see the $10,000 credit, when they log in to the
+Business Grants Portal (BGP)
+and
+SkillsFuture for Business page
+.
+Alternatively, employers may also click
+here
+to submit an enquiry should they require clarification on their eligibility.
+Can non-business entities* qualify for SFEC?
+Yes, SFEC is open to all employers (including non-business entities) who meet the qualifying criteria.
+Do note that SFEC can only be used on schemes or training courses where the base schemes or training courses are eligible to the entities.
+*Includes charities, Voluntary Welfare Organisations, Institutions of a Public Character, associations, and cooperative societies but excludes government agencies and subsidiaries.
+Credit Utilisation
+When do employers need to embark on the supportable programmes in order to utilise SFEC?
+Employers qualified under SFEC (Budget 2020) can only use their SFEC on supportable schemes applied from 1 April 2020 or training courses that commenced from 1 April 2020.
+Employers qualified under SFEC Expansion (Budget 2022) can only use their SFEC on supportable schemes applied from 1 April 2022 or training courses that commenced from 1 April 2022.
+The list of supportable programmes is updated from time to time, to reflect new programmes on board SFEC. For programmes that are newly supported under SFEC, employers would be able to utilise the Credit based on the programmes’ start date (refer to Annex A of FAQs).
+Can employers use the SFEC for programmes other than those listed in the website?
+SFEC can only be used on supportable schemes or training courses on
+Enterprise Singapore’s website
+, and
+SkillsFuture for Business page
+.
+The list of SFEC-supportable programmes can also be found in Annex A below.
+Employers can also access the updated list of SFEC-eligible training courses on
+SSG course directory page
+. Please check to verify that the course is eligible for SFEC before enrolling in the course.
+Can SFEC be used to support training for both locals and foreigners?
+SFEC supports employers’ investment in their workforce. Thus, employers can decide whether to use SFEC to support the training of their local and/or foreign employees.
+Note: Employers are to check with the respective agencies for their eligibility for programme funding.
+How can eligible employers who would like to utilise the SFEC find out which type of SFEC-supportable programme is suitable for them?
+The list of SFEC-supportable programmes may be found in the tab above, under "How to utilise your credit"
+Employers may refer to the respective programme details listed on the respective agencies' website and contact them for further assistance.
+Alternatively, employers who want to find out more on the SFEC-supportable programmes that are suitable for their business needs may wish to explore their profile on the
+GoBusiness e-Adviser
+or
+make an appointment with a Business Advisor
+from the SME Centres. For more information on SME Centres, employers may refer to
+Enterprise Singapore’s website
+.
+Submission of Claims for SFEC Supportable Programmes
+How should employers make a claim for SFEC?
+Employers are required to
+submit the final claims to the respective agencies
+for the supportable programmes that they have successfully applied for or training courses that they have completed, by the second half of 2026. Employers may follow the claim processes and requirements indicated by the respective agencies for the supportable programmes.
+For SFEC-eligible course employers may be required to submit the SFEC claims on the
+SkillsFuture for Business login page
+. For further instructions on the submission of SFEC claims, please refer to
+user guide
+published on the
+SkillsFuture for Business page
+.
+Upon approval of the claims for these supportable programmes, the corresponding credit will be calculated and be disbursed via employers’ GIRO account registered with IRAS, or PayNow Corporate on a quarterly basis. There is no need to make a separate claim submission for SFEC.
+When will employers need to submit SFEC claims for SFEC-eligible courses?
+Employers who have sent foreign employees (excluding foreign employees who hold Long Term Visit Pass+ (LTVP+)) for courses will have to submit the SFEC claims after course completion via the
+SkillsFuture for Business login page
+.
+Employers who have sent Singapore Citizen/Permanent Resident employees (including foreign employees who are LTVP+) for courses will have to check with the training providers if there is a need to submit the SFEC claims after course completion via the
+SkillsFuture for Business login page
+.
+For further instructions on the SFEC claims process, please refer to
+user guide
+published on the
+SkillsFuture for Business page
+.
+Disbursement of SFEC
+When can employers receive the SFEC disbursement?
+The SFEC will be disbursed directly to eligible employers on a quarterly basis. Employers will receive an email notification to Corppass Administrators upon successful disbursement of the credit.
+SFEC disbursements are made separately from disbursements by base SFEC supportable programmes.
+SFEC claims are disbursed to employers’ bank accounts from IRAS, with either the prefix “SFEC” (PayNow), or “SkillsFuture Enterprise Credit” (GIRO), after final claims of the base supportable programmes have been approved.
+For enquiries related to SFEC disbursement, please contact Enterprise Singapore at 6898 1800 or click
+here
+to submit an enquiry.
+How will employers receive the SFEC disbursement?
+Credit disbursement will be made to the employers’ GIRO account registered with IRAS, or PayNow which the employers have signed up linking their UEN (without suffix) to their bank account.
+Company status must be
+‘LIVE’
+to receive the credit disbursement.
+To apply for
+GIRO
+arrangement with IRAS, employers may log in to myTax portal and apply for eGIRO if the bank account is maintained with DBS/POSB, OCBC, UOB, Bank of China and Maybank. For other banks, you may print out and send the completed GIRO application form to IRAS at Inland Revenue Authority of Singapore, 55 Newton Road, Revenue House, Singapore 307987. Please click
+here
+to download the GIRO application form.
+To sign up for PayNow Corporate, employers can link their Unique Entity Number (UEN) issued in Singapore to their corporate bank account. Employers may register for the service via internet banking or contact their banks for assistance. Please visit
+www.abs.org.sg/PayNow
+to find out more.
+How do employers change their GIRO/PayNow account details?
+For GIRO, employers may log in to myTax portal to make changes. You may visit this
+website
+for more details.
+For PayNow, requests for changes should be made via their respective banks.
+How do employers check the details of their SFEC disbursement?
+For programmes under Enterprise Transformation (e.g. EDG, MRA, PSG etc), employers  may log into
+Business Grants Portal (BGP)
+to obtain the details.
+For programmes under Workforce Transformation (e.g. SFEC-eligible training courses), employers may log into the
+SkillsFuture for Business page
+to obtain the details.
+Employers may also scan the QR codes (2) and (3) on Annex A to access these portals.
+For further enquiries on the SFEC utilisation or credit balance, please contact Enterprise Singapore at 6898 1800 or click
+here
+to submit an enquiry.
+How is the SFEC disbursement amount computed?
+The SFEC disbursement amount computation is based on the out-of-pocket amount incurred by the employer on supportable qualifying costs when undertaking SFEC supportable programmes. The computation for the out-of-pocket amount would be: [Supportable qualifying costs – grant amount].
+Employers are advised to refer to their original base grant/ letter of offer (LOF) to confirm on the supportable qualifying costs and the grant amount for their original project.
+Employers have applied for a programme under Enterprise Transformation where 90% of their out-of-pocket expense is more than the cap of $7,000. How will SFEC be computed?
+Due to the cap on SFEC utilisation under Enterprise Transformation programmes, employers will only be able to claim up to $7,000 credit. This is illustrated in an example below:
+Qualified project costs
+$100,000
+Grant amount
+$80,000
+Out-of-pocket expense
+$20,000
+SFEC amount
+$18,000
+$7,000
+(due to cap, employer can only claim $7,000 of SFEC for Enterprise Transformation)
+SFEC balance
+Initial credits
+$10,000
+Remaining credits
+$3,000
+Remaining credits for Enterprise Transformation programmes
+$0
+Remaining credits for Workforce Transformation programmes
+$3,000
+Employers have received the SFEC disbursement for their SFEC-eligible training courses supported under SFEC. How do employers view the breakdown for the courses attended?
+To view the breakdown of the SFEC disbursements for training claims, please log in to the
+SkillsFuture for Business page
+. At the main page, select “SFEC Training claims” at the top of the page, and click on “Training Claim Details” tab.
+Employers may expand the selection to view the claim amount and the trainees claimed for.
+For a more detailed navigational assistance, employers may refer to the
+user guide
+Employers have received the SFEC disbursement in their account, which did not tally with the sum total of ‘pending disbursement’ status in the system. Why is this so?
+Please allow up to a week for the system to update the status of the SFEC lines. Lines that are disbursed will be reflected as “credited”, with the corresponding date and amount. This should be reflected as an inward credit to employers’ bank account from IRAS, with either the prefix “SFEC” (PayNow), or “SkillsFuture Enterprise Credit” (GIRO).
+Please note that disbursements of SFEC occur in tranches and employers may not receive the full amount of approved claim lines in a single tranche.
+How do employers update the email address for the SFEC disbursement notification?
+The SFEC disbursement notification is, by default, sent to the registered Corppass Administrator of the entity.
+To amend the distribution list, please click
+here
+.
+Will the unused Credit be reimbursed to the employers upon expiry of the scheme?
+No, upon expiry of the scheme, the unused Credit will be forfeited.
+Who should employers contact for more information on SFEC?
+For more information on SFEC and eligibility, please contact Enterprise Singapore at +65 6898 1800 or click
+here
+.
+Annex A
+List of SFEC Supportable Programmes (as at May 2025)
+The supportable programmes will be updated periodically. The programmes' validity for SFEC ends on the SFEC claim submission deadline.
+Programmes
+Start Date
+Agency
+Enterprise Transformation Programmes
+Enterprise Development Grant (EDG)
+1 April 2020
+Enterprise Singapore
+Market Readiness Assistance (MRA)
+1 April 2020
+Enterprise Leadership for Transformation Programme (ELT)
+1 September 2020
+Scale-Up
+1 April 2023
+Productivity Solutions Grant (PSG)
+1 April 2020
+Enterprise Singapore
+1 April 2020
+Singapore Tourism Board
+1 April 2020
+National Environment Agency
+30 April 2020
+Building and Construction Authority
+1 June 2020
+Infocomm Media Development Authority
+[For applications between 1/6/2020 to 25/2/2021]
+26 October 2020
+Monetary Authority of Singapore
+18 November 2020
+National Parks Board
+30 April 2021
+Singapore Food Agency
+16 October 2021
+Early Childhood Development Agency
+Aviation Development Fund (ADF)
+1 April 2020
+Civil Aviation Authority of Singapore
+Business Improvement Fund (BIF)
+1 April 2020
+Singapore Tourism Board
+Workforce Transformation Programmes
+Singapore Global Executive Programme (SGEP)
+1 April 2023
+Enterprise Singapore
+Skills Framework-aligned courses
+(in support of the Industry Transformation Maps)
+1 April 2020
+Skillsfuture Singapore
+National Centre of Excellence for Workplace Learning (NACE) Training Programmes
+1 May 2023
+National Centre of Excellence for Workplace Learning (NACE) Consultancy Services
+National Workplace Learning Certifications (including Workplace Learning:READY Mark) conferred by NACE
+1 Mar 2024
+Career Conversion Programmes
+(course fee expenses only)
+1 April 2020
+Workforce Singapore
+Support for Job Redesign under Productivity Solutions Grant (PSG-JR)
+1 April 2020
+Job Redesign initiatives
+(e.g. i4.0 Human Capital Initiative for Manufacturing Sector, Service Industry Transformation Programme for the Services sector)
+1 April 2020
+Design Thinking Business Transformation Programme
+15 January 2021
+Employment Support for Persons with Disabilities (PwDs)
+5 July 2021
+Service and Jobs Transformation Leadership Programme (SJTL)
+6 April 2023
+Training Industry Professionals in Tourism (TIP-iT)
+1 April 2020
+Singapore Tourism Board
+Career Conversion Programme
+(course fee expenses only)
+15 January 2021
+Employment and Employability Institute
+Note: Employers will have to meet the eligibility criteria of the individual SFEC-supportable programmes before they can draw down the Credit.
+Browse similar topics
+FAQ: Market Readiness Assistance Grant (MRA)
+FAQ: Enterprise Development Grant (EDG)
+FAQ: Productivity Solutions Grant (PSG)
+×

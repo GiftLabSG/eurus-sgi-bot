@@ -1,0 +1,162 @@
+Productivity Solutions Grant (PSG)
+Productivity Solutions Grant
+For local SMEs looking for IT solutions and equipment to improve business productivity
+Please visit the
+Business Grants Portal
+to check on the status of your application.
+All successful applications will be subject to prevailing grant conditions. Incomplete applications will be rejected, and applicants may re-apply with all the complete set of required information.
+Apply now
+About this programme
+The Productivity Solutions Grant (PSG) helps Singapore companies improve their productivity and automate existing processes through IT solutions and equipment.
+Up to 50% of eligible costs for local SMEs
+Receive up to $30,000 and improve your business productivity.
+Supports sector-specific and generic solutions
+Get support for sector-specific and generic solutions that are pre-approved by EnterpriseSG and other participating agencies. You may find the full list of
+solutions
+on
+GoBusiness Gov Assist
+.
+Note:
+Retrospective applications (i.e., grant applicant must not have made payment, and/or any form of deposits prior to application submission) will not be supported.
+Group applications (two or more companies listed as applicants in one application form) are not allowed. Each Unique Entity Number (UEN) should be associated with only one application submission.
+Eligibility
+To be eligible for the PSG grant, the company must meet these criteria:
+Business entity is registered and operating in Singapore
+Company has at least 30% local equity held directly or indirectly by Singaporean(s) and/or Singapore PR(s), determined by the ultimate individual ownership
+Group annual sales turnover not exceeding S$100 million OR group employment size not exceeding 200 employees
+IT solutions or equipment that are purchased, leased, or subscribed to must be used in Singapore. You may refer to the FAQ page for more details on supportability.
+Grant applicant must not have made payment, and/or any form of deposits to a supplier, vendor or third party in relation to the purchase/lease/subscription of the IT solution or equipment prior to application submission
+Company does not fall under these categories
+Charities, Institutions of Public Characters (IPCs), Religious Entities, Voluntary Welfare Organisation (VWO), Government agencies and subsidiaries, and societies are not eligible for this grant.
+Note: Employers eligible for the
+SkillsFuture Enterprise Credit
+can qualify for additional subsidies under the scheme.
+How to apply
+Step 1: Identify relevant solutions that best suit your business needs and select a suitable vendor
+Visit
+GoBusiness Gov Assist
+to access a full list of adoptable solutions. Identify the relevant solutions for your needs, together with a suitable vendor.
+Step 2: Get direct quotations
+IT solutions: Get a quotation from pre-approved vendor. Please ensure that the
+items and cost within the quotation are as per Annex 3 of the selected PSG preapproved
+solution package, and is issued by the selected vendor.
+Equipment: Source for an equipment and get a quotation from the vendor
+Consultancy services: Get a quotation from pre-approved consultant
+Note: Only the actual purchase of the pre-approved solution is supported (excludes other related administrative fees/charges e.g delivery fees, installation). There are no compulsory application fees required for schemes offered by EnterpriseSG. Any application fees quoted by individuals/ firms offering grant application services are not endorsed by the Government.
+Step 3: Prepare your documents
+As part of the PSG application, you will be required to submit the following documents:
+Documents required for application
+Contact details
+Main contact person
+Letter of Offer addressee (CEO or Managing Director as registered with ACRA, or other authorised individuals such as shareholder, owner, director, partner)
+Company’s Financial Statements (FS) for the past 3 years
+Financial statements refer to audited statements/management accounts including a profit & loss and balance sheet (both signed off by an authorised person with the name and designation clearly stated).
+Newly incorporated companies (i.e., < 1 year) may submit other relevant supporting documents such as to-date unaudited financial statement, or management accounts endorsed by company’s shareholder/director instead.
+If your company belongs to a corporate group*, please also submit:
+Ultimate corporate group financial statements for the past 3 years
+ACRA bizfile of holding companies and/or subsidiaries
+Corporate group structure
+Complete SGX Shareholder report (if parent company is listed on the Singapore Exchange (SGX))
+*A corporate group is made up of the applicant, holding companies owning > 50% of the applicant, and subsidiaries that the applicant owns > 50% of.
+Proposal and/or quotation* from your vendor
+*Quotations must be addressed to the registered company name as per company’s ACRA Bizfile. Short-forms and/or other names will not be accepted e.g., if registered company is ABC Global Pte Ltd, ABC Global (without ‘Pte Ltd’) will not be accepted.
+Information required includes, but is not limited to:
+Detailed scope of services (e.g. names/ mandatory specifications of equipment, matching Annex 3 for IT solution)
+Other supporting licences or documents
+Cost breakdown by scope of services
+- The items and cost within the quotation are as per Annex 3 of the selected PSG pre-approved solution package and is issued by the selected vendor (for IT solution only).
+Product brochure and technical specifications (for equipment only)
+Deployment location/ Tenancy agreement**
+** to refer to
+FAQ
+for future-dated Tenancy Agreement. Please submit the tenancy agreement if you are deploying the solution to a non-ACRA registered address. Alternatively, you may submit utility bills as proof of current location.
+Business impact
+Description of overall impact
+Details of productivity gains
+Step 4: Apply on the Business Grant Portal (BGP)
+Sign in to your Corppass account to transact on the
+BGP portal
+. Sign up if you do not have a Corppass account yet, and refer to the following guides for any help needed:
+Corppass user guide
+BGP step-by-step-guide  (Subject to changes due to frequent updates to BGP)
+You may refer to the
+FAQ
+page on how to resubmit clarifications for your ongoing applications.
+The applicant company must directly apply for and manage the grant. Third-party applications or management are not permitted to do so.
+Note: Each complete application usually takes 6 weeks to process. You can log in to BGP and view the status of your grant application under the “My Grants” section. We may contact you via the BGP for clarifications.
+Step 5: Receive your Letter of Offer
+If your grant is awarded, your company will receive a Letter of Offer with the following details:
+Conditions of support
+Amount of grant awarded
+Project qualifying period
+Name of Equipment/ IT solution
+You will need to accept the Letter of Offer within the specified timeline.
+Please ensure that you continue to meet eligibility criteria and have not made payment to the new vendor prior to submitting the new application. The request will be subject to approval. You may refer to the step-by-step guide
+here
+.
+You may refer to the
+FAQ page
+for more information (e.g. changes to claims due date).
+Step 6: Complete your project
+Please ensure that your IT solution/ equipment:
+is purchased or subscribed as approved in the application
+has been deployed and installed for at least 30 days
+has been paid in full
+Step 7: Submit your claims
+Please submit your claims via the
+BGP
+with the following documents by the claim due date specified in your Letter of Offer:
+Documents required for claims
+Invoice
+The invoice should be for the purchase of the approved IT solutions or equipment package as per the Letter of Offer.
+The invoice must be addressed to the grant applicant’s registered company name as per company’s ACRA Bizfile. The invoice must be billed by the approved vendor as per the Letter of Offer.
+Payment documents
+Proof of full payment made for the approved IT solutions or equipment, such as bank statements, bank transfer advice or images, etc.
+The payment documents should indicate grant applicant name (payer), vendor name (payee), payment date, payment amount and approval status of transaction.
+Usage report (for IT Solutions only)
+The usage report should indicate that the IT Solution has been used for at least one month.
+Pictures
+For IT solutions, please submit a clear photo of the software license number. The license number must also be declared in the PSG claim form during claim submission in the
+BGP
+.
+For Equipment, please submit a clear photo of the equipment serial number. The serial number must also be declared in the PSG claim form during claim submission in the
+BGP
+.
+Step 8: Receive your disbursements
+You will be notified via email when your claim has been approved. The approved claim amount will be disbursed via Corporate PayNow or GIRO to your designated bank account.
+Note: Disbursement takes approximately 14 working days (via PayNow Corporate) following the approval of claims.
+Set up your mode of disbursement
+Corporate PayNow (preferred)
+You are encouraged to register for PayNow Corporate with your UEN +3 alphanumeric suffix (if applicable) through your respective banks in three simple steps:
+Contact your bank or log in to your bank’s internet banking or mobile banking app.
+Link your UEN to the bank account. You can add a 3-digit alpha-numeric suffix to your UEN to create multiple PayNow proxies.
+Enter your name to complete the setup.
+Once your PayNow Corporate account is set up, submit your details via Business Grant Portal (BGP) claim form.
+With PayNow Corporate, grant applicants can receive their grants quicker, within 14 working days after approval of claims.
+GIRO
+Alternatively, you may also make payments via GIRO. For payments via GIRO, kindly submit your bank account details via
+FormSG
+. Do note that disbursement via GIRO may take up to eight weeks after approval of claims.
+In the event that no PayNow Corporate or GIRO has been set up, we are unable to disburse the claim.
+Ready to apply?
+If you are eligible for the Productivity Solutions Grant, submit your application on the Business Grants Portal (BGP) now.
+Apply now
+Need additional help?
+Read Frequently Asked Questions
+For assistance, kindly contact us at
+go.gov.sg/askenterprisesg
+.
+Productivity Solutions Grant (PSG)
+About this programme
+Eligibility
+How to apply
+Need additional help?
+Apply now
+Other ways we help
+Enterprise Development Grant (EDG)
+Tap on EDG for projects that help you upgrade, innovate, grow and transform your business.
+Market Readiness Assistance (MRA) Grant
+Support for business development, promotion and set-up costs for new overseas market expansion.
+Enterprise Financing Scheme
+Access financing support at each stage of your business growth.
+×
