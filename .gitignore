@@ -1,0 +1,25 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual env
+venv/
+.venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# IDEs and OS
+.vscode/
+.idea/
+.DS_Store
+
+# Cache
+*.log
+.mypy_cache/
+.pytest_cache/
+.cache
+
+data/manual_scrapes/
+data/scraped_pages/

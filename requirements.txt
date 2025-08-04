@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai>=0.1.0
+openai
+chromadb
+tiktoken
+beautifulsoup4
+requests
+schedule
+python-dotenv
+crewai
+streamlit
