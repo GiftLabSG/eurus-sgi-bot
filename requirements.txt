@@ -1,4 +1,4 @@
-langchain
+langchain==0.2.8
 langchain-community
 langchain-openai>=0.1.0
 openai
