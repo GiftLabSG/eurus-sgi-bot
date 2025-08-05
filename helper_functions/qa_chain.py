@@ -5,7 +5,7 @@ from langchain_openai import ChatOpenAI
 from difflib import get_close_matches
 
 # Load the LLM
-llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
+# Removed: llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
 # Step 1: Detect grant type from user input
 def detect_grant_from_question(question: str) -> str | None:
@@ -194,6 +194,7 @@ def find_complementary_grant(docs, detected_grant):
 
 # Step 3: Build QA chain with metadata filter
 def build_qa_chain(question: str):
+    llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
     grant_title = detect_grant_from_question(question)
     retriever = get_retriever(grant_filter=grant_title if grant_title else None)
     
