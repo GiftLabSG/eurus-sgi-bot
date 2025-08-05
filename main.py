@@ -1,5 +1,14 @@
 import os
+import sys
 from dotenv import load_dotenv
+
+# --- NEW: Fix for sqlite3 version incompatibility on Streamlit Cloud ---
+try:
+    __import__('pysqlite3')
+    sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+except ImportError:
+    pass
+# --- END NEW ---
 
 # Load environment variables from .env file (for local development)
 load_dotenv()
@@ -9,12 +18,7 @@ from helper_functions.utility import check_password
 from helper_functions.qa_chain import get_final_response
 from helper_functions.vectorstore import get_embedding, persist_directory, refresh_vectorstore, urls_to_scrape
 
-# --- NEW: Check for API Key availability first ---
-if not os.getenv("OPENAI_API_KEY"):
-    st.error("The OPENAI_API_KEY environment variable is not set. Please add it to your .streamlit/secrets.toml file or Streamlit Cloud secrets.")
-    st.stop()
-
-# Check if the password is correct. 
+# Check for password
 if not check_password():
     st.stop()
 
@@ -24,7 +28,7 @@ st.title("💡 Eurus: Security Grant Initiative")
 st.write("Ask any question about government grants for security agencies in Singapore.")
 st.write("👉 Tip: Type **'List of grants for security agencies'** to see all relevant grants.")
 
-# --- NEW: Check and refresh vector store with proper feedback ---
+# --- Check and refresh vector store with proper feedback ---
 if not os.path.exists(os.path.join(persist_directory, "chroma.sqlite3")):
     st.info("Vector store missing. Building the knowledge base...")
     try:
@@ -33,6 +37,7 @@ if not os.path.exists(os.path.join(persist_directory, "chroma.sqlite3")):
         st.success("Vector store built and ready!")
     except Exception as e:
         st.error(f"Error building vector store. Please check logs. Error: {e}")
+        st.exception(e)
         st.stop()
 
 # Input field
