@@ -58,6 +58,12 @@ def load_manual_documents(directory_path):
     Load manual .html documents from a directory and convert them to Document objects.
     """
     manual_docs = []
+    # --- NEW: Check if directory exists before trying to load from it ---
+    if not os.path.exists(directory_path):
+        print(f"⚠️ Manual scrapes directory not found: {directory_path}")
+        return manual_docs
+    # --- END NEW ---
+
     for filename in os.listdir(directory_path):
         if filename.endswith(".html"):
             file_path = os.path.join(directory_path, filename)
@@ -86,7 +92,8 @@ def load_manual_documents(directory_path):
             print(f"📄 Loaded HTML file: {filename}")
     return manual_docs
 
-def refresh_vectorstore(urls):
+# --- NEW: The function now correctly takes 'embedding' as a parameter ---
+def refresh_vectorstore(urls, embedding):
     print("🚀 Starting vectorstore refresh...")
 
     # 1. Scrape live URLs
@@ -123,6 +130,7 @@ def refresh_vectorstore(urls):
     )
     
     print("✅ Vectorstore refresh complete.")
+# --- END NEW ---
 
 urls_to_scrape = [
     "https://www.enterprisesg.gov.sg/financial-support/enterprise-development-grant",
@@ -151,4 +159,4 @@ urls_to_scrape = [
 
 if __name__ == "__main__":
     embedding = get_embedding()
-    refresh_vectorstore(urls_to_scrape)
+    refresh_vectorstore(urls_to_scrape, embedding)

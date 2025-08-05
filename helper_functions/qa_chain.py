@@ -1,11 +1,12 @@
+import os
 from langchain.chains import RetrievalQA
 from langchain.prompts import PromptTemplate
 from helper_functions.retriever import get_retriever
 from langchain_openai import ChatOpenAI
 from difflib import get_close_matches
 
-# Load the LLM
-# Removed: llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
+# Load the LLM at the top level
+llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
 # Step 1: Detect grant type from user input
 def detect_grant_from_question(question: str) -> str | None:
@@ -194,7 +195,6 @@ def find_complementary_grant(docs, detected_grant):
 
 # Step 3: Build QA chain with metadata filter
 def build_qa_chain(question: str):
-    llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
     grant_title = detect_grant_from_question(question)
     retriever = get_retriever(grant_filter=grant_title if grant_title else None)
     
@@ -261,14 +261,5 @@ def get_final_response(question: str) -> str:
         return f"{final_answer}{suggestion}\n\n### 🔗 Sources:\n{sources_str or 'No sources found.'}"
 
     # 🛠️ Catch-all error handler
-    except Exception:
-        return (
-            "❗ Sorry, I couldn't find a suitable answer to your question.\n\n"
-            "If you're looking for training or workforce upgrading support, "
-            "you might consider grants such as:\n\n"
-            "- **Career Conversion Programme (CCP) for Security Officers**\n"
-            "- **Company Training Committee Grant (CTC)**\n"
-            "- **Productivity Solutions Grant (PSG)**\n\n"
-            "📬 For more help, you can contact **WSG_Biz_Services@wsg.gov.sg** or "
-            "[fill out this form](https://go.gov.sg/contact-form)."
-        )
+    except Exception as e:
+        return f"❗ Sorry, an unexpected error occurred: {e}"

@@ -1,21 +1,17 @@
+import os
 from langchain_community.vectorstores import Chroma
 from langchain.retrievers.multi_query import MultiQueryRetriever
-from langchain_openai import ChatOpenAI
+from langchain_openai import ChatOpenAI, OpenAIEmbeddings
 from helper_functions.vectorstore import get_embedding, persist_directory
 
-# Removed: embedding = get_embedding()
-
-# Load the LLM used for multi-query expansion
-# Removed: llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
+embedding = get_embedding()
+llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
 def get_retriever(grant_filter=None):
     """
     Returns a retriever with optional grant-specific filtering.
     Uses MultiQueryRetriever to expand the query semantically.
     """
-    embedding = OpenAIEmbeddings()
-    llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
-    
     db = Chroma(
         persist_directory=persist_directory,
         embedding_function=embedding
