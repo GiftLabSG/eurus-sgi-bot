@@ -11,6 +11,8 @@ if not check_password():
 
 from helper_functions.qa_chain import get_final_response
 
+from helper_functions.vectorstore import get_embedding, persist_directory, refresh_vectorstore, urls_to_scrape
+
 # Streamlit page config
 st.set_page_config(page_title="Eurus: Security Grant Initiative", page_icon="💡")
 st.title("💡 Eurus: Security Grant Initiative")
@@ -18,13 +20,15 @@ st.write("Ask any question about government grants for security agencies in Sing
 st.write("👉 Tip: Type **'List of grants for security agencies'** to see all relevant grants.")
 
 #NEW
-from helper_functions.vectorstore import refresh_vectorstore, urls_to_scrape, get_embedding, persist_directory
-embedding = get_embedding()
-if not os.path.exists(persist_directory) or not os.listdir(persist_directory):
-    st.write("Vectorstore missing or empty, refreshing...")
-    refresh_vectorstore(urls_to_scrape, embedding)
-    st.write("Vectorstore refreshed!")
-    #REVIEW THE ABOVE
+if not os.path.exists(os.path.join(persist_directory, "chroma.sqlite3")):
+    st.info("Vector store missing. Building the knowledge base...")
+    try:
+        embedding = get_embedding()
+        refresh_vectorstore(urls_to_scrape, embedding)
+        st.success("Vector store built and ready!")
+    except Exception as e:
+        st.error(f"Error building vector store: {e}")
+        st.stop()
 
 # Input field
 query = st.text_input("Enter your question")
