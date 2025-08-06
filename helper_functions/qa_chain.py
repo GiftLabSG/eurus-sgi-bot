@@ -124,10 +124,10 @@ Question:
 
 Answer:"""
 
-prompt = PromptTemplate(
-    template=prompt_template,
-    input_variables=["context", "question"]
-)
+# prompt = PromptTemplate(
+    # template=prompt_template,
+    # input_variables=["context", "question"]
+# )
 
 abbr_to_full = {
     "ads": "Advanced Digital Solutions Grant",
