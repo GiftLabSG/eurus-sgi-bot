@@ -52,11 +52,11 @@ if query:
             st.warning("❗ Sorry, an error occurred. The bot could not process your query.")
             st.exception(e)
             st.info(
-                "If you're looking for training or workforce upgrading support, "
-                "you might consider grants such as:\n\n"
-                "- **Career Conversion Programme (CCP) for Security Officers**\n"
-                "- **Company Training Committee Grant (CTC)**\n"
-                "- **Productivity Solutions Grant (PSG)**\n\n"
-                "📬 For more help, you can contact **WSG_Biz_Services@wsg.gov.sg** or "
-                "[fill out this form](https://go.gov.sg/contact-form)."
+"""If you're looking for training or workforce upgrading support, you might consider grants such as:
+
+- **Career Conversion Programme (CCP) for Security Officers**
+- **Company Training Committee Grant (CTC)**
+- **Productivity Solutions Grant (PSG)**
+
+📬 For more help, you can contact **WSG_Biz_Services@wsg.gov.sg** or [fill out this form](https://go.gov.sg/contact-form)."""
             )
