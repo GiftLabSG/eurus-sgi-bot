@@ -262,14 +262,14 @@ def get_final_response(question: str) -> str:
         # 🔧 NEW: Trigger fallback if poor result
         if not final_answer or any(phrase in final_answer.lower() for phrase in fallback_phrases) or not docs:
             return (
-                """❗ Sorry, I couldn't find a suitable answer to your question.\n\n
-                If you're looking for training or workforce upgrading support,
-                you might consider grants such as:\n\n
-                - **Career Conversion Programme (CCP) for Security Officers**\n
-                - **Company Training Committee Grant (CTC)**\n
-                - **Productivity Solutions Grant (PSG)**\n\n
-                📬 For more help, you can contact **WSG_Biz_Services@wsg.gov.sg** or
-                [fill out this form](https://go.gov.sg/contact-form)."""
+                "❗ Sorry, I couldn't find a suitable answer to your question.\n\n"
+                "If you're looking for training or workforce upgrading support, "
+                "you might consider grants such as:\n\n"
+                "- **Career Conversion Programme (CCP) for Security Officers**\n"
+                "- **Company Training Committee Grant (CTC)**\n"
+                "- **Productivity Solutions Grant (PSG)**\n\n"
+                "📬 For more help, you can contact **WSG_Biz_Services@wsg.gov.sg** or "
+                "[fill out this form](https://go.gov.sg/contact-form)."
             )
 
         sources = sorted({
