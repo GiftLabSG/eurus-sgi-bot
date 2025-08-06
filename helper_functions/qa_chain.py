@@ -117,10 +117,8 @@ Application Steps:
 {{Extract any relevant process, eligibility requirements, funding procedures, or contact details for applying, even if not explicitly labeled as "application steps". (use bullet points). If truly no process is mentioned, say "Not found in documents."}}
 
 Context:
-{context}
 
 Question:
-{question}
 
 Answer:"""
 
