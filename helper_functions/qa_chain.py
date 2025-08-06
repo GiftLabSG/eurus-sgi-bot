@@ -201,8 +201,7 @@ def build_qa_chain(question: str):
     return RetrievalQA.from_chain_type(
         llm=llm,
         retriever=retriever,
-        return_source_documents=True,
-        chain_type_kwargs={"prompt": prompt}
+        return_source_documents=True
     )
 
 # Step 4: Query and format response
@@ -230,8 +229,32 @@ def get_final_response(question: str) -> str:
     try:
         qa_chain = build_qa_chain(question)
         result = qa_chain.invoke({"query": question})
-        final_answer = result.get("result", "").strip()
-        docs = result.get("source_documents", [])
+        prompt_template = f"""You are a knowledgeable grant advisor.
+        Answer based ONLY on the context below. Use ONLY the provided documents to answer the question.
+        Do not hallucinate or include unrelated grant details.
+
+        If the user does not specify a grant but asks about workforce upgrading, upskilling, reskilling, or HR development, you may suggest a relevant grant such as the Career Conversion Programme for Human Capital Professionals or Security Officers, based on context.
+
+        Format your answer clearly:
+
+        Grant Description:
+        {{Brief summary}}
+
+        Eligibility Criteria:
+        {{Who is eligible (use bullet points)}}
+
+        Application Steps:
+        {{Extract any relevant process, eligibility requirements, funding procedures, or contact details for applying, even if not explicitly labeled as "application steps". (use bullet points). If truly no process is mentioned, say "Not found in documents."}}
+
+        Context:
+        {result}
+
+        Question:
+        {question}
+
+        Answer:"""
+        final_answer = llm.predict(prompt_template)
+        # docs = result.get("source_documents", [])
 
         fallback_phrases = [
             "i don't know", "not found in documents", "no relevant",
