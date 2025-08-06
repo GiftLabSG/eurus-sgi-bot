@@ -252,7 +252,7 @@ def get_final_response(question: str) -> str:
 
         Answer:"""
         final_answer = llm.predict(prompt_template)
-        # docs = result.get("source_documents", [])
+        docs = result.get("source_documents", [])
 
         fallback_phrases = [
             "i don't know", "not found in documents", "no relevant",
