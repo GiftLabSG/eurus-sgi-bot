@@ -34,7 +34,7 @@ st.markdown("### 🎯 Target Users")
 st.write("""
 The primary users of Eurus - SGI are **security agencies in Singapore** looking to explore and apply for government 
 grants and initiatives relevant to the security sector. These include SMEs and larger firms aiming to upgrade operations, 
-digitize services, or enhance manpower capability.
+digitise services, or enhance manpower capability.
 
 With future iterations, the scope may expand to include grants for related sectors and deeper integration with grant 
 application portals.
