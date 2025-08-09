@@ -17,7 +17,7 @@ information to support their growth and transformation goals.
 
 st.markdown("### 💡 Proposed Solution")
 st.write("""
-**Eurus - SGI (Security Grant Intelligence)** is an AI-powered assistant designed to simplify the grant discovery process.
+**Eurus - SGI (Security Grant Initiative)** is an AI-powered assistant designed to simplify the grant discovery process.
 
 Using Retrieval-Augmented Generation (RAG), Eurus continuously gathers and updates information from official government 
 sources through web scraping and manual curation. The assistant can:
